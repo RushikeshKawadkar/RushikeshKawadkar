@@ -1,3 +1,22 @@
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RushikeshKawadkar/RushikeshKawadkar/main/dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RushikeshKawadkar/RushikeshKawadkar/main/light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/RushikeshKawadkar/RushikeshKawadkar/main/dark.svg"
+      alt="Rushikesh Kawadkar Profile Banner"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Rushikesh Kawadkar</h1>
 
 <h3 align="center">Student • Learning • Building • Exploring</h3>
